@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *𝗔𝗥𝗥157 - 𝗕𝗢𝗧* 」
+「 *LUCIFER - 𝗕𝗢𝗧* 」
  ▷ *informações*
  ▷ Prefix: 「  ${prefix}  」
- ▷ Criador : 𝘉𝘙𝘜𝘟𝘐𝘕𝘏𝘖 𝘔𝘖𝘋𝘚
- ▷ 𝘔𝘌𝘜 𝘊𝘈𝘕𝘈𝘓 𝘋𝘈 𝘜𝘔𝘈 𝘍𝘖𝘙𝘊𝘈 𝘓𝘈 𝘍𝘔𝘓 https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
- ▷ Link do meu grupo: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
+ ▷ Criador : LUCIFER 𝘔𝘖𝘋𝘚
+ ▷ 𝘔𝘌𝘜 𝘊𝘈𝘕𝘈𝘓 𝘋𝘈 𝘜𝘔𝘈 𝘍𝘖𝘙𝘊𝘈 𝘓𝘈 𝘍𝘔𝘓 https://youtube.com/channel/UCXmvKywHhTDeMh6ISmayY_g
+ ▷ Link do meu grupo: https://chat.whatsapp.com/EhqAcySEe5f80GcwpJ8eCm
 ❖ ── ✦ ──『✙』── ✦ ── ❖
 ▷ 𝗢𝗨𝗧𝗥𝗢𝗦 𝗠𝗘𝗡𝗨𝗦
 *╔═══❖•ೋ° °ೋ•❖═══╗*
