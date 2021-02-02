@@ -78,9 +78,9 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:𝐁𝐑𝐔𝐗𝐈𝐍𝐇𝐎🖤\n' // full name
+            + 'FN:LUCIFER🖤\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=+551145302777:+55 (11) 4530-2777\n' // ID do WhatsApp + número de telefone
+            + 'TEL;type=CELL;type=VOICE;waid=+5519997767519:+55 (19) 99776-7519\n' // ID do WhatsApp + número de telefone
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
@@ -269,7 +269,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa']
 		        const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["551145302777@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["5519997767519@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -287,7 +287,7 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '556296638900@s.whatsapp.net'
+                        const NomerOwner = '5519997767519@s.whatsapp.net'
                         /******ApiKey Input******/
                         const BarBarKey = 'YOUR_APIKEY'
                         /******End of ApiKey Input******/
