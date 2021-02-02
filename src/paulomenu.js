@@ -1,5 +1,5 @@
 const paulomenu = (prefix, pushname) => {
-    return `◪ *Comandos do 𝗔𝗥𝗥157 𝗕𝗢𝗧*
+    return `◪ *Comandos do LUCIFER 𝗕𝗢𝗧*
     │
     ├─ ❏ ${prefix}setprefix
     ├─ ❏ ${prefix}block
