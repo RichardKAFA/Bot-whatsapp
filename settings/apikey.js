@@ -1,1 +1,4 @@
-1
+const apikey = {
+        BarBarKey: 'YOUR_APIKEY',
+        TobzKey: 'BotWeA',
+}
